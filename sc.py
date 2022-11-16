@@ -1,4 +1,4 @@
-print("half")
+
 if BMI <= 18.4:
     print("You are underweight.")
 elif BMI <= 24.9:
